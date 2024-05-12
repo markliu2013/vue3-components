@@ -1,0 +1,19 @@
+{
+  "name": "@markliu2013/components2",
+  "version": "0.0.1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "vite build"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  },
+  "dependencies": {
+    "vue": "^3.4.21"
+  }
+}
