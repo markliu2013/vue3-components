@@ -1,0 +1,9 @@
+{
+  "name": "@markliu2013/b",
+  "version": "0.0.5",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@markliu2013/a": "workspace:^0.0.5"
+  }
+}

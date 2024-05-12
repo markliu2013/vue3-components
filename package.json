@@ -1,0 +1,11 @@
+{
+  "name": "markliu2013",
+  "workspaces": [
+    "packages/*",
+    "play",
+    "docs"
+  ],
+  "engines": {
+    "node": ">= 18"
+  }
+}
