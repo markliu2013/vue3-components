@@ -4,6 +4,6 @@
   "main": "index.js",
   "type": "module",
   "dependencies": {
-    "@markliu2013/a": "workspace:^0.0.5"
+    "@markliu2013/a": "workspace:^"
   }
 }
